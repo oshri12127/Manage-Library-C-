@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ex1</name>
+    </assembly>
+    <members>
+        <member name="T:ex1.Author">
+            <summary>
+            A class representing a author.
+            </summary>
+        </member>
+        <member name="P:ex1.Author.FirstName">
+            <summary>
+            first name of Author.
+            </summary>
+        </member>
+        <member name="P:ex1.Author.LastName">
+            <summary>
+            Last Name of Author.
+            </summary>
+        </member>
+        <member name="P:ex1.Author.NumOfBook">
+            <summary>
+            Number Of Books that written by the Author.
+            </summary>
+        </member>
+        <member name="M:ex1.Author.#ctor(System.String,System.String)">
+            <summary>
+            constructor with two parameters.
+            </summary>
+            <param name="firstName"></param>
+            <param name="lastName"></param>
+        </member>
+        <member name="M:ex1.Author.CompareTo(System.Object)">
+            <summary>
+            compare two Authors by first name and last name.
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ex1.Author.ToString">
+            <summary>
+            print first name and last name of author.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ex1.Author.Equals(System.Object)">
+            <summary>
+            return true or false if two authors are equals.
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="T:ex1.Book">
+            <summary>
+            A class representing a book.
+            </summary>
+        </member>
+        <member name="P:ex1.Book.ISBN">
+            <summary>
+            serial code of the book.
+            </summary>
+        </member>
+        <member name="P:ex1.Book.Name">
+            <summary>
+            name of the book.
+            </summary>
+        </member>
+        <member name="P:ex1.Book.AuthorP">
+            <summary>
+            the author of the book.
+            </summary>
+        </member>
+        <member name="P:ex1.Book.Copies">
+            <summary>
+            copies of book.
+            </summary>
+        </member>
+        <member name="P:ex1.Book.Price">
+            <summary>
+            price of book.
+            </summary>
+        </member>
+        <member name="M:ex1.Book.#ctor(System.String,System.String,System.Int32,System.Decimal,ex1.Author)">
+            <summary>
+            constructor with five parameters.
+            </summary>
+            <param name="ISBN">serial of the book</param>
+            <param name="name">title</param>
+            <param name="copies"></param>
+            <param name="price"></param>
+            <param name="a">author of the book</param>
+        </member>
+        <member name="M:ex1.Book.Equals(System.Object)">
+            <summary>
+            return true or false if two books are equals.
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ex1.Book.GetHashCode">
+            <summary>
+            GetHashCode
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ex1.Book.CompareTo(System.Object)">
+            <summary>
+             compare two books by title(name) of the book.
+            </summary>
+            <param name="obj">Other book to compare </param>
+            <returns></returns>
+        </member>
+        <member name="M:ex1.Book.ToString">
+            <summary>
+            print name and serial.
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,10 @@
+C:\Users\Oshri\source\repos\ex1\ex1\bin\Debug\netstandard1.4\ex1.deps.json
+C:\Users\Oshri\source\repos\ex1\ex1\obj\Debug\netstandard1.4\ex1.csprojAssemblyReference.cache
+C:\Users\Oshri\source\repos\ex1\ex1\obj\Debug\netstandard1.4\ex1.csproj.CoreCompileInputs.cache
+C:\Users\Oshri\source\repos\ex1\ex1\obj\Debug\netstandard1.4\ex1.AssemblyInfo.cs
+C:\Users\Oshri\source\repos\ex1\ex1\bin\Debug\netstandard1.4\ex1.dll
+C:\Users\Oshri\source\repos\ex1\ex1\bin\Debug\netstandard1.4\ex1.pdb
+C:\Users\Oshri\source\repos\ex1\ex1\obj\Debug\netstandard1.4\ex1.dll
+C:\Users\Oshri\source\repos\ex1\ex1\obj\Debug\netstandard1.4\ex1.pdb
+C:\Users\Oshri\source\repos\ex1\ex1\obj\Debug\netstandard1.4\ex1.AssemblyInfoInputs.cache
+C:\Users\Oshri\source\repos\ex1\ex1\bin\Debug\netstandard1.4\ex1.xml
